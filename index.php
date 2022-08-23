@@ -1,3 +1,3 @@
 <?php
-echo "xin chao ngo phu hung"
+echo "xin chao ngo phu hung ngu"
 ?>
